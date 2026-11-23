@@ -1,0 +1,116 @@
+# Descriptions : lignes <= 16 (bourrées à 16 à la fabrication), 5 lignes max.
+# --- bêtes
+0EFA6A	Mort revenu à la|vie. Enterré, il|est déjà bien|pourri.
+0EFAF2	Pas encore|pourri, il a|presque l'air|humain, mais|c'est un mort.
+0EFB58	Chauve-souris|affamée, prête à|tout. Adore le|sang humain.
+0EFC02	Être maléfique|qui pille les|tombes. Forme|humaine, mais|pas humain.
+0EFC68	Mort inhumé il|y a des siècles,|revenu avec une|âme maléfique.
+0EFCF0	Rat devenu|géant. Il fut|peut-être jadis|petit et mignon.
+0EFD9A	Envoyé de|l'enfer porteur|de mort. Il la|livre partout,|sans faute.
+0EFE44	Revenu à la vie|après la perte|de sa chair : il|n'a plus que les|os.
+0EFE88	Taillé dans la|pierre jadis|pour protéger|les hommes, il|l'a oublié.
+0EFF32	Spectre né de la|jalousie et de|la rancune des|hommes. D'une|ruse inouïe.
+0EFFBA	Armure sans|maître, rougie|par le sang de|ses victimes.
+0F0064	Armure vide, mue|par l'esprit|glacial de son|ancien maître.
+0F00EC	Armure d'un|noble célèbre.|Son maître|disparu, elle|erre sans but.
+0F0196	Armure noircie|par l'esprit|malfaisant qui|l'habite.
+0F021E	Gentil le jour,|il devient une|bête féroce dès|que la nuit|tombe.
+0F02C8	Loup-garou|enveloppé d'une|Force de feu. Il|meurt s'il se|consume.
+0F0350	Il croit jouer,|mais ses crocs|et ses griffes|sont acérés :|ça fait mal.
+0F03FA	Arme ordinaire|qui a fusionné|avec le Maître :|une bête|redoutable.
+0F04A4	Bête jaillie de|l'enfer en|fendant le sol.|Chef des|morts-vivants.
+0F054E	Chef des|sorcières. Même|sa queue de|serpent crépite|d'électricité.
+0F0592	Vampire maître|de la nuit. Chef|des bêtes|sauvages.
+0F061A	Sorcière dotée|de la Force de|feu. Maîtrise la|magie du feu.
+0F06C4	Sorcière dotée|de la Force de|glace. Elle|manie la glace à|sa guise.
+0F074C	Sorcière dotée|de la Force de|foudre. Produit|de l'électricité|en elle.
+0F07F6	La nuit, qu'elle|adore, lui fait|enfler la tête,|et ses attaques|redoublent.
+0F08A0	Tête de|citrouille toute|creuse. D'un|naturel|insouciant.
+0F0928	Ancien policier|invoqué sous|forme de bête.
+0F098E	Il jubile en|tailladant ses|ennemis... avec|un couteau|illusoire.
+0F0A38	Il brûle de|montrer ses|talents appris|au cirque.
+0F0A9E	Poupée jetée|par un humain.|Rancunière,|elle brûle de|se venger.
+0F0B48	On l'appelle|fée, mais ce|n'est qu'un amas|de malveillance.
+0F0BD0	Petite bête|sans volonté|propre. Obéit|fidèlement aux|ordres.
+0F0C58	Guêpe qui|attaque l'homme.|Toujours|craintive, elle|guette alentour.
+0F0D02	Change sans|cesse de forme ;|nul ne connaît|son vrai visage.|Peu futé.
+0F0DAC	Cupide jusque|dans la mort, il|se bat toujours|pour garder ses|biens.
+0F0E56	Bête revenue à|la vie sans s'en|rendre compte.|Elle a perdu|toute émotion.
+0F0F00	Il haïssait les|araignées. Mort,|leur malédiction|lui a donné|cette forme.
+0F0FAA	Marchand d'armes|ressuscité en|char électrique.|Il perd un peu|de courant.
+0F1054	Plante rendue|géante en labo,|puis jetée. Elle|pousse à l'état|sauvage.
+0F10FE	Ombre sans|corps. Nul ne|sait pourquoi|elle est née.
+0F1186	Il attaque tout|ce qui approche|du feu qu'il|garde, et se|moque de brûler.
+0F11EC	Il se couvre de|glace pour la|protéger. Sans|glace, il meurt.
+0F1296	Du clan des|vampires, dotée|de la Force de|glace. Elle aime|le clinquant.
+0F12DA	Âme maléfique|embrasée devenue|réelle. Lointain|parent du feu|follet.
+0F1340	Rancune laissée|en ce monde par|des gens seuls.|Glacée au|toucher.
+0F13EA	Pudding qui a|acquis une Force|de glace. D'où|lui vient-elle ?|Mystère.
+0F1482	Corps chargé|d'électricité.|Au moindre|contact, ça|picote !
+# --- armes
+0F23E6	Attrape même|les zombies !|La fierté des|Beast Busters.
+0F2450	Proche des armes|de la surface.|Mise sur la|mobilité. Faible|puissance.
+0F24D8	Tire trois|balles à la|suite. Idéal|pour concentrer|le feu.
+0F2560	Son gros canon|tire des balles|dans trois|directions.
+0F25E8	Tire un rayon|laser. Pas de|tir en rafale.
+0F2670	Rend le corps|invisible. Peut|s'équiper d'un|fusil laser.
+0F26D6	Projette l'Arme|comme une balle.|Traverse les|obstacles.
+0F275E	Projette une|grosse Arme qui|perce tout.|Attaque forte.
+0F27E6	Couvre tout le|corps d'une Arme|solide. Peut|s'équiper d'une|mitraillette.
+0F2890	Couvre tout le|corps d'une Arme|solide. Peut|s'équiper d'un|fusil à pompe.
+0F28F6	S'étire en ligne|droite devant|soi. Efficace à|distance.
+0F297E	L'Arme surgit|devant toi et|charge dans la|direction visée.
+0F2A06	L'Arme prend la|forme d'un bras|et frappe du|poing.
+0F2A8E	Coup de poing|puissant : la|bête touchée est|projetée sur les|autres.
+0F2AD2	L'Arme prend|forme humaine|pour tromper les|bêtes. N'attaque|pas.
+0F2B7C	Arme à forme|humaine. Son|explosion frappe|large.
+0F2C26	Arme à forme|humaine. Tire|les mêmes balles|que toi.
+0F2CAE	Contre-attaque|quand on te|frappe : vole la|vie de l'ennemi|et soigne.
+0F2D58	Arme à forme|humaine. En|explosant, elle|sème des balles|de capture.
+0F2E02	Charge|puissante qui|repousse les|bêtes touchées.
+0F2EAC	Garde un angle|de 90 degrés,|toujours en|quête de proie.
+0F2F12	Garde un angle|de 180 degrés et|absorbe les|balles des|bêtes.
+0F2FBC	Longue Arme qui|tourne sur 360|degrés et|absorbe les|balles.
+0F3066	Posée au sol,|elle germe puis|se déplace.
+0F30EE	Se pose au sol.|On peut la faire|germer à|distance.
+0F3198	Arme qui rampe|droit devant.
+0F31FE	Lame acérée qui|tourne autour du|corps : elle le|protège et|frappe.
+0F32A8	Lame pointue|qui frappe|d'estoc devant|soi.
+0F3330	L'Arme devient|un long bras qui|s'allonge.|Efficace à|distance.
+0F33DA	Charge|orientable en|pleine course.|Attaque forte.
+0F3484	Tire deux balles|d'affilée.
+0F34EA	Le canon tire|deux balles dans|deux directions.
+# --- origines (lignes <= 14)
+0F3E60	Arme offerte|par le Maître.
+0F3E9C	Arme née|d'un Germe.
+0F3ED8	Évolution de :|Mitr. légère
+0F3F20	Évolution de :|Fusil léger
+0F3F6C	Évolution de :|Pistolet
+0F3FB0	Évolution de :|Canon laser
+0F3FF4	Évolution de :|Tent. fouet
+0F4038	Évolution de :|Tir d'obus
+0F4078	Évolution de :|Mitraillette
+0F40C2	Évolution de :|Fusil-pompe
+0F4106	Évolution de :|Tent. fouet
+0F414A	Arme née|d'un Germe.
+0F418A	Arme née|d'un Germe.
+0F41CA	Évolution de :|Méga Mano
+0F4214	Arme née|d'un Germe.
+0F4254	Évolution de :|Leurre armé
+0F42A0	Évolution de :|Leurre
+0F42E0	Arme de|débogage.
+0F4316	Évolution de :|Méga Messer
+0F4364	Évolution de :|Leurre-bombe
+0F43AE	Évolution de :|Tasten
+0F43F0	Arme née|d'un Germe.
+0F4430	Évolution de :|Tentacules
+0F4478	Évolution de :|Tent. large
+0F44BA	Évolution de :|Embusqué
+0F4500	Évolution de :|Rampant
+0F4544	Évolution de :|Tent. fouet
+0F4588	Arme née|d'un Germe.
+0F45C8	Évolution de :|Messer
+0F460A	Évolution de :|Mano
+0F4648	Évolution de :|Super Tasten
+0F4694	Évolution de :|Pistolet
+0F46D8	Évolution de :|Pistolet

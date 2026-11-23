@@ -1,0 +1,55 @@
+# Menus : chaque ligne est bourrée d'espaces à la longueur de la ligne anglaise correspondante.
+# Positions (Oui/Non, [A]/[B]) gardées colonne pour colonne. À VÉRIFIER À L'ÉCRAN.
+0D8878	APPUYEZ SUR A
+0D8896	 HISTOIRE|  COMBAT|  OPTION
+0D88EA	Du début
+0D88FC	La suite
+0D8C14	  Effacer  Fin
+0D8DC4	Expérience||   Nv|     Exp    /||   Nv|     Exp    /||   Nv|     Exp    /
+0D91F2	{F900} Nv|Evp     Exp   /|Att     Pui   /
+0D951A	Changer|d'Arme
+0D9542	 Choisis la case|    à changer||[A]OK    [B]Retour
+0D95B6	{F900} Nv|Evp     Exp   /|Att     Pui   /|[A]OK    [B]Retour
+0D9638	  Retirer l'Arme|    équipée ?||[A]OK    [B]Retour
+0D96D0	Germe| Donne-lui un Oum| pour l'équiper.|         [B]Retour
+0D9768	Choisis l'Arme|   à élever
+0D97AC	Choisis une|   commande
+0D97F8	     Nourrir|     Faire évoluer|     Réinitialiser|[A]OK    [B]Retour
+0D9890	Germe|Donne-lui un Oum|pour créer l'Arme.|[A]OK    [B]Retour
+0D9928	 Réinitialiser|      l'Arme ?|    Oui    Non|[A]OK    [B]Retour
+0D99C0	|Arme réinitialisée
+0D99E8	 Réinitialiser|     l'Arme
+0D9A2C	Choisis l'Arme| à faire évoluer
+0D9A70	|||[A]OK    [B]Retour
+0D9A9C	|     {F900}|    Oui    Non|[A]OK    [B]Retour
+0D9B2C	|     {F900}||[A]Donne [B]Retour
+0D9B64	|||         [B]Retour
+0D9B90	L'Arme est|   née !
+0D9BC4	{FD09}{FC02}Proies|{FD0C}{FC04}/10|{FD04}{FC05}p
+0D9BEA	     {F900}|     Evp   /||[A]Donne [B]Retour
+0D9C3A	  Cet équipement|     te convient ?|    Oui    Non|[A]OK    [B]Retour
+0D9D2A	État||Les Armes||Les Forces||L'évolution||Les Germes
+0D9DBA	Nom| {F900}
+0D9E4C	{F900} Nv|Evp     Exp   /|Att     Pui   /|         [B]Retour
+0D9F66	Germe|Donne-lui un Oum|pour créer l'Arme.|         [B]Retour
+# Ajouts (pointeurs 24 bits / hors anciennes tables), 23/11
+022F61	VIE
+022F6B	EXP
+022F73	EVP
+022FAF	ATT
+022FB7	PUI
+023045	NEUTRE
+023053	FEU
+023065	GLACE
+023075	FOUDRE
+023813	  Extinction|  automatique|||    Oui    Non
+02387D	  Si la console|  reste inactive,|  elle s'éteindra|  après 10 min.
+0408EE	Catalogue|des Armes||Catalogue|des bêtes||Effacement||Extinction|auto.
+040D7D	 Effacer données ?||||    Oui    Non
+040DC5	|Effacement...
+040DED	|Les données ont|été effacées.
+04216C	Briques||Pavés|||Ponts|||Téléporteur|
+04275B	|En attente de|l'adversaire.
+0427A1	L'adversaire|choisit son Arme.||Un instant...
+04281B	Adversaire|introuvable.|Éteignez la console|et recommencez.
+0428BB	Erreur de liaison !||Éteignez la console|et recommencez.
